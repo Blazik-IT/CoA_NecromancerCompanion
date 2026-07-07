@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: CoA Necromancer Companion
+## Notes: Companion for Conquest of Azeroth Necromancer
+## Author: Blazik
+## Version: 0.3
+
+Core.lua
+Utils.lua
+Modules\Combat.lua
+Scanner.lua
+Minions.lua
+UI.lua
+Debug.lua
+Config.lua

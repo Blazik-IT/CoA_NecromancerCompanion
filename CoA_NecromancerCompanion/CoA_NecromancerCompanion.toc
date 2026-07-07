@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: CoA Necromancer Companion
+## Notes: Addon independiente para mostrar la vida en tiempo real de los esbirros del Necromancer en Ascension WoW.
+## Author: Blazik
+## Version: 2.0.0
+## SavedVariablesPerCharacter: CoANecroConfig
+
+Config.lua
+Utils.lua
+Debug.lua
+Minions.lua
+Combat.lua
+Scanner.lua
+UI.lua
+Core.lua
